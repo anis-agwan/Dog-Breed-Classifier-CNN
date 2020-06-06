@@ -23,6 +23,8 @@ Welcome to the Convolutional Neural Networks (CNN) project. In this project, I l
 		jupyter notebook dog_app.ipynb
 	```
 
+<a id='step0'></a>
+## Step 0: Import Datasets
 
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in this project's home directory, at the location `/dog_images`. 
 
