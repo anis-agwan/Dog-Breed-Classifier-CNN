@@ -2,7 +2,7 @@
 
 Welcome to the Convolutional Neural Networks (CNN) project. In this project, I learnt how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, the algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
 
-![Sample Output][image1]
+![Sample Dog Output](images/sample_dog_output.png)
 
 ## Project Instructions
 
@@ -26,9 +26,7 @@ __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-downlo
 		jupyter notebook dog_app.ipynb
 	```
 	
-<a id='step0'></a>\n",
-    "## Step 0: Import Datasets\n",
-    "\n",
-    "Make sure that you've downloaded the required human and dog datasets:\n",
-    "* Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in this project's home directory, at the location `/dogImages`. \n",
-    "\n"
+<a id='step0'></a>
+## Step : Import Datasets\n"
+Make sure that you've downloaded the required human and dog datasets:
+* Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in this project's home directory, at the location `/dogImages`.
