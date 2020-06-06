@@ -25,5 +25,10 @@ __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-downlo
 	```
 		jupyter notebook dog_app.ipynb
 	```
-  
-  
+	
+<a id='step0'></a>\n",
+    "## Step 0: Import Datasets\n",
+    "\n",
+    "Make sure that you've downloaded the required human and dog datasets:\n",
+    "* Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in this project's home directory, at the location `/dogImages`. \n",
+    "\n"
