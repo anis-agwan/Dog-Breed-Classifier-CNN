@@ -30,3 +30,6 @@ __NOTE:__ if you are using the Udacity workspace, you *DO NOT* need to re-downlo
 ## Step : Import Datasets\n"
 Make sure that you've downloaded the required human and dog datasets:
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip).  Unzip the folder and place it in this project's home directory, at the location `/dogImages`.
+
+* Download the [human dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip).  Unzip the folder and place it in the home directory, at location `/lfw`.
+
